@@ -9,3 +9,4 @@ def get_driver():
 
     driver.maximize_window()
     return driver
+
